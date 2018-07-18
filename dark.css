@@ -1,0 +1,211 @@
+/*
+  darkRed  (https://github.com/opselo/darkred) ;
+  Can you use this code for any purpose ;
+ */
+
+body {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+.red-ui-tabs, .red-ui-tabs *, .editor-tray-body, .editor-tray-breadcrumbs, .editor-tray-toolbar, .editor-tray-titlebar, .editor-tray-footer{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+.palette_label {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+pre, code {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+.form-tips, .form-tips * {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.form-search input, .form-inline input, .form-horizontal input, .form-search div[contenteditable="true"], .form-inline div[contenteditable="true"], .form-horizontal div[contenteditable="true"], .form-search textarea, .form-inline textarea, .form-horizontal textarea, .form-search select, .form-inline select, .form-horizontal select, .form-search .help-inline, .form-inline .help-inline, .form-horizontal .help-inline, .form-search .uneditable-input, .form-inline .uneditable-input, .form-horizontal .uneditable-input, .form-search .input-prepend, .form-inline .input-prepend, .form-horizontal .input-prepend, .form-search .input-append, .form-inline .input-append, .form-horizontal .input-append {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+#workspace {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+#workspace * {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+/* PALETTE TOOLTIPS (HELPERS) */
+.red-ui-popover, .red-ui-popover-right {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.red-ui-typedInput-options, .red-ui-typedInput-options a, .red-ui-typedInput-container-button, .red-ui-typedInput-container, .red-ui-typedInput-full-width, .red-ui-typedInput-focus, .red-ui-typedInput-container button:not(.disabled):hover {
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+
+#notifications, .notification, .notification *{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.red-ui-searchBox-container input{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.red-ui-stack .palette-category{
+    background-color: black ;
+    color: #EDEDED;
+}
+.workspace-footer-button {
+  background-color: black ;
+  color: #EDEDED;
+}
+.node-info{
+  background-color: black ;
+  color: #EDEDED;
+}
+.node-info *{
+  background-color: black ;
+  color: #EDEDED;
+}
+.node-info tr{
+  background-color: black ;
+  color: #EDEDED;
+}
+.node-info-node-row tr{
+  background-color: black ;
+  color: #EDEDED;
+}
+.node-info-node-row td{
+  background-color: black ;
+  color: #EDEDED;
+}
+table.node-info tr:not(.blank) td:first-child{
+  background-color: black ;
+  color: #EDEDED;
+}
+#palette {
+  background-color: black ;
+  color: #EDEDED ;
+}
+#palette > * {
+  background-color: black ;
+  color: #EDEDED ;
+}
+
+#palette-container{
+  background-color: black ;
+}
+#palette-container-subflows{
+  background-color: black ;
+}
+#palette-search {
+  background-color: black ;
+  color: #EDEDED ;
+}
+.palette-category {
+  background-color: black ;
+}
+.palette-category-expanded{
+  background-color: black ;
+  color: #EDEDED ;
+}
+.palette-header{
+  background-color: black ;
+}
+.palette-content{
+  background-color: black ;
+  color: #EDEDED;
+}
+.palette-button {
+  background-color: black ;
+  color: #EDEDED;
+}
+
+.innerCanvas > rect {
+  fill: #1D1F21 ;
+}
+
+.horizontal {
+  stroke : #2D104E ;
+}
+
+.vertical {
+  stroke : #2D104E ;
+}
+
+#sidebar-content {
+  background-color: black ;
+  color: #EDEDED ;
+}
+.sidebar-header{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.red-ui-stack{
+  background-color: black ;
+  color: #EDEDED ;
+}
+
+.node-info-tips {
+  background-color: black ;
+  color: #EDEDED ;
+}
+.help-key {
+  background-color: black ;
+  color: #EDEDED ;
+}
+#sidebar-footer{
+  background-color: black ;
+  color: #EDEDED ;
+}
+#sidebar-separator{
+  background-color: black ;
+  color: #EDEDED ;
+}
+.debug-message{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.debug-message *{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.debug-message-meta *{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.sidebar-header-button{
+  background-color: #1D1F21 ;
+  color: #EDEDED ;
+}
+.debug-content-list *{
+  background-color: black ;
+  color: #EDEDED;
+}
+
+#workspace-footer {
+  background-color: black ;
+  color: #EDEDED ;
+}
+
+.red-ui-tab-button{
+  background-color: black ;
+  color: #EDEDED ;
+}
+.red-ui-tab-button a{
+  background-color: black ;
+  color: #EDEDED ;
+}
+table {
+    background-color: black ;
+    color: #EDEDED;
+}
