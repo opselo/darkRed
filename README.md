@@ -1,5 +1,3 @@
-# darkRed
-A dark theme for node-red editor
 <pre>
      _            _    ____          _
   __| | __ _ _ __| | _|  _ \ ___  __| |
@@ -8,7 +6,8 @@ A dark theme for node-red editor
  \__,_|\__,_|_|  |_|\_\_| \_\___|\__,_|
 _______[darkTheme for NODE-RED]________
 
-</pre>
+
+
     1. Copy 'dark.css' on your desire route
     
     2. Call 'dark.css' from your 'settings.js'
@@ -27,3 +26,4 @@ _______[darkTheme for NODE-RED]________
     
     ** Remember change '/' for '\' in your routes (if you use windows os)
     ** If you desire conserve code-editor style (white background, etc) simply omit step 3.
+</pre>
