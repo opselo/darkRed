@@ -10,8 +10,8 @@ _______[darkTheme for NODE-RED]________
     
 The intention of 'darkRed' is not to be a nice-theme, but a practical-theme.
 The idea was to make heavy use of NODE-RED for some time and feel
-the difference with my predominant black color on my screen
-in the day to day (my code editor, shell, etc).
+the difference with predominant black color on my screen
+in the day to day (code editor, shell, etc).
 To my eyes, it was a small impact.
 I hope this little hack can help
 any lover of development over dark environment.
