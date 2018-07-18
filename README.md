@@ -30,7 +30,8 @@ any lover of development over dark environment.
    }
 
 3. Overwrite your 'theme-tomorrow.js' with content of 'theme-tomorrow-mod.js'
-    location : 'node-red-folder/node_modules/node-red/public/vendor/ace/theme-tomorrow.js'
+   > location : 'node-red-folder/node_modules/node-red/public/vendor/ace/theme-tomorrow.js'
+   > final name must be 'theme-tomorrow.js'
 
 [NOTES]
 
