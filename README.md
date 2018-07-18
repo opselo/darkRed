@@ -39,4 +39,5 @@ any lover of development over dark environment.
 ** If you desire conserve code-editor style (white background, etc) simply omit step 3.
 ** This is a basic version while all the details are added, I'm sorry.
 </pre>
-https://github.com/opselo/darkRed/blob/master/screenshot_darkred.png
+<img src="./screenshot_darkred.png">  
+
