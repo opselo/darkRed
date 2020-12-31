@@ -9,7 +9,7 @@ and use your settings file to load them."
 This topic was published in the Official Node-Red Forum,
 where other users also contributed topics and techniques
 (in the modern way).
-[A Dark-Theme for Node-RED here!](https://discourse.nodered.org/t/a-dark-theme-for-node-red-here)
+<a href="https://discourse.nodered.org/t/a-dark-theme-for-node-red-here">A Dark-Theme for Node-RED here!</a>
 </pre>
 <pre>
      _            _    ____          _
