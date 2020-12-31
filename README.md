@@ -1,4 +1,13 @@
 <pre>
+This dark theme and the technique to inject it are a thing of the past. Now this can be done in an inbuilt way in Node-Red.
+
+I quote from the developers:
+"It is now possible to install themes using npm and use your settings file to load them."
+
+This topic was published in the Official Node-Red Forum, where other users also contributed topics and techniques (in the modern way).
+[A Dark-Theme for Node-RED here!](https://discourse.nodered.org/t/a-dark-theme-for-node-red-here)
+</pre>
+<pre>
      _            _    ____          _
   __| | __ _ _ __| | _|  _ \ ___  __| |
  / _` |/ _` | '__| |/ / |_) / _ \/ _` |
